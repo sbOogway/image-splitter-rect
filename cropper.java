@@ -1,5 +1,3 @@
-package pokemon_img;
-
 import java.awt.image.BufferedImage;
 import java.awt.image.RenderedImage;
 import java.io.File;
