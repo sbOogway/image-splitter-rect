@@ -22,7 +22,7 @@ public class cropper {
 		
 		if (args.length<2) 
 		{
-			System.out.println("This program takes a photo and crops it in subimages. You must specify the following parameters: ");
+			System.out.println("This program receives a photo and crops it in subimages. You must specify the following parameters: ");
 			System.out.println("-p : path of the photo you wanna crop");
 			System.out.println("-w : width of the subimages");
 			System.out.println("-h : height of the subimages");
